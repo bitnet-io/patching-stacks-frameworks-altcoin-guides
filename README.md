@@ -32,7 +32,7 @@ chainparams.cpp
 bitnet io legacy addresses start with a B
 segwit with 'bit' prefix 
 
-ttps://en.bitcoin.it/wiki/List_of_address_prefixes
+https://en.bitcoin.it/wiki/List_of_address_prefixes
 
 and 22 is the p2sh hash in decimal
 adjust to your network
