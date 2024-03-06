@@ -193,6 +193,7 @@ total 12
 ```
 
 STACKS-CORE NODE (not everything just some)
+https://github.com/bitnet-io/stacks-core-bitnet
 ```
 https://github.com/bitnet-io/stacks-core-bitnet/blob/master/stackslib/src/core/mod.rs
 stacks-common/src/deps_common/bitcoin/blockdata/constants.rs
