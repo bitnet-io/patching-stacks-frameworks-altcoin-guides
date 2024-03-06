@@ -1,3 +1,9 @@
+
+reference for chainparams.cpp legacy address
+
+https://en.bitcoin.it/wiki/List_of_address_prefixes
+
+
 # patching-stacks-frameworks-altcoin-guides
 
 # tool to check how your STX p2pkh and p2sh decode use it well it helped me reverse engineer everything from hirosystems
