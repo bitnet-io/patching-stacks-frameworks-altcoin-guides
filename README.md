@@ -25,7 +25,16 @@ hex is always 0x and decimal is always the bare number
 
 nano node_modules/bitcoinjs-lib/src/networks.js
 ```
-25 = B and 22 is the p2sh hash in decimal
+
+chainparams.cpp
+25 = B 
+
+bitnet io legacy addresses start with a B
+segwit with 'bit' prefix 
+
+ttps://en.bitcoin.it/wiki/List_of_address_prefixes
+
+and 22 is the p2sh hash in decimal
 adjust to your network
 https://github.com/bitnet-io/bitnet-core/blob/main/src/chainparams.cpp#L176-L182
 
