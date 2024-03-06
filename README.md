@@ -192,7 +192,16 @@ total 12
 
 ```
 
-
+STACKS-CORE NODE (not everything just some)
+```
+https://github.com/bitnet-io/stacks-core-bitnet/blob/master/stackslib/src/core/mod.rs
+stacks-common/src/deps_common/bitcoin/blockdata/constants.rs
+./stackslib/src/burnchains/bitcoin/address.rs
+stacks-common/src/address/mod.rs
+stackslib/src/burnchains/bitcoin/indexer.rs:pub const BITCOIN_MAINNET: u32 = 0xE1D1E1D1;
+stacks-common/src/deps_common/bitcoin/network/constants.rs:            0xE1D1E1D1 => Some(Network::Bitcoin),
+stacks-common/src/deps_common/bitcoin/network/constants.rs:            Network::Bitcoin => 0xE1D1E1D1,
+```
 
 
 
